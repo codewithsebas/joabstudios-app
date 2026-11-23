@@ -1,0 +1,310 @@
+{
+  "Metadata": {
+    "defaultTitle": "JoabStudios — Design web, aplicativos e software sob medida",
+    "description": "Agência digital: design e desenvolvimento de sites, lojas virtuais, aplicativos web e mobile, software sob medida e identidade visual.",
+    "keywords": "design web, desenvolvimento web, lojas virtuais, desenvolvimento de aplicativos, apps mobile, software sob medida, design de marca, design UI/UX, sistemas de reservas"
+  },
+  "Common": {
+    "skipToContent": "Pular para o conteúdo",
+    "cta": "Pedir orçamento",
+    "category": "Agência digital",
+    "concept": "Design e tecnologia que fazem seu negócio crescer.",
+    "sloganStart": "Ideias claras.",
+    "sloganEnd": "Produtos digitais que funcionam.",
+    "description": "A JoabStudios é uma agência digital independente que projeta e desenvolve sites, aplicativos, software sob medida e identidade visual para empresas, empreendedores e projetos de todo tipo.",
+    "opensNewTab": "(abre em uma nova aba)",
+    "optional": "Opcional",
+    "honeypot": "Não preencha este campo"
+  },
+  "Nav": {
+    "home": "Início",
+    "services": "Serviços",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "mainLabel": "Principal",
+    "mobileLabel": "Menu mobile",
+    "menu": "Menu",
+    "close": "Fechar",
+    "homeAria": "JoabStudios, ir para o início",
+    "mobilePitch": "Conte-nos sobre seu projeto e ajudamos você a encontrar a solução digital certa.",
+    "language": "Idioma",
+    "changeLanguage": "Mudar idioma"
+  },
+  "Footer": {
+    "tagline": "Sites, aplicativos, software sob medida e design de marca para negócios de todo tipo.",
+    "navLabel": "Navegação do rodapé",
+    "navTitle": "Navegação",
+    "servicesTitle": "Serviços",
+    "contactTitle": "Contato",
+    "asideLabel": "Redes e créditos",
+    "socialTitle": "Conecte-se com a gente",
+    "contact": "Contato",
+    "backToTop": "Voltar ao topo"
+  },
+  "Home": {
+    "metaTitle": "JoabStudios — Design web, aplicativos e software sob medida",
+    "metaDescription": "Projetamos e desenvolvemos sites, lojas virtuais, aplicativos, software sob medida e identidade visual para negócios de todo tipo.",
+    "knowsAbout": "Design e desenvolvimento web|Lojas virtuais|Aplicativos web e mobile|Software sob medida|Design de marca e interfaces"
+  },
+  "Hero": {
+    "titleStart": "Design e tecnologia",
+    "titleEnd": "que fazem seu negócio crescer.",
+    "intro": "Criamos sites, aplicativos, software sob medida e design de marca para empresas, empreendedores e projetos de todo tipo.",
+    "viewProjects": "Ver projetos",
+    "featured": "Projeto em destaque — {name}: {category}",
+    "featuredAria": "Ver o estudo de caso de {name}"
+  },
+  "Manifesto": {
+    "eyebrow": "Quem somos",
+    "lead": "Um estúdio digital independente que ajuda cada negócio a",
+    "part1": "crescer online,",
+    "part2": "operar melhor",
+    "part3a": "e lançar",
+    "part3b": "produtos próprios.",
+    "cardTitle": "Da ideia ao produto",
+    "cardText": "Design, desenvolvimento e lançamento do seu projeto digital, com uma única equipe.",
+    "serviceLines": "Linhas de serviço",
+    "methodology": "Metodologia",
+    "stages": "etapas",
+    "audienceLabel": "Para todo tipo de negócio",
+    "audienceTitle": "Sites, apps e design",
+    "audienceText": "Empresas, empreendedores, lojas, profissionais e turismo."
+  },
+  "ServicesSection": {
+    "eyebrow": "Serviços",
+    "title": "Quatro linhas, um mesmo objetivo: fazer seu negócio crescer.",
+    "intro": "Da identidade da sua marca ao aplicativo ou sistema que move a sua operação."
+  },
+  "Work": {
+    "eyebrow": "Projetos",
+    "title": "Projetos reais, em funcionamento.",
+    "intro": "Sites, aplicativos e painéis de gestão que projetamos e desenvolvemos para clientes reais.",
+    "viewAll": "Ver todos os projetos",
+    "empty": "Em breve publicaremos nossos projetos mais recentes.",
+    "caseStudyAria": "Ver estudo de caso: {name}",
+    "viewCaseStudy": "Ver estudo de caso",
+    "servicesAria": "Serviços entregues"
+  },
+  "Problems": {
+    "eyebrow": "O que resolvemos",
+    "title": "Os problemas que resolvemos.",
+    "intro": "Cada negócio é diferente, mas os obstáculos para crescer costumam se repetir. É assim que lidamos com eles."
+  },
+  "Process": {
+    "eyebrow": "Como trabalhamos",
+    "title": "Um método claro, da ideia ao lançamento."
+  },
+  "Cta": {
+    "eyebrow": "Vamos começar",
+    "title": "Pronto para levar seu projeto ao próximo nível?",
+    "description": "Conte o que você precisa e preparamos uma proposta sob medida para a sua operação."
+  },
+  "ServicesPage": {
+    "metaTitle": "Serviços — Design web, aplicativos, software e design de marca",
+    "metaDescription": "Design e desenvolvimento web, lojas virtuais, aplicativos web e mobile, software sob medida e design de marca. Orçamentos personalizados.",
+    "audience": "Empresas, empreendedores e profissionais",
+    "eyebrow": "Serviços",
+    "title": "Tudo de digital que o seu negócio precisa.",
+    "intro": "Quatro linhas de serviço que funcionam separadas ou juntas: da sua marca e do seu site ao aplicativo ou sistema que administra a sua operação.",
+    "navLabel": "Serviços",
+    "capabilities": "Capacidades",
+    "quoteThis": "Pedir orçamento deste serviço",
+    "solves": "Problemas que resolve",
+    "benefits": "Benefícios",
+    "features": "Funcionalidades",
+    "examples": "Exemplos de aplicação",
+    "plansEyebrow": "Modalidades",
+    "plansTitle": "Três pontos de partida, propostas sempre sob medida.",
+    "plansIntro": "Não trabalhamos com preços fixos: cada projeto tem necessidades diferentes. Estas modalidades orientam a conversa e a proposta final se ajusta à sua operação.",
+    "priceByScope": "Preço conforme o escopo",
+    "recurringEyebrow": "Serviços recorrentes",
+    "recurringTitle": "Acompanhamento depois do lançamento.",
+    "ctaTitle": "Receba uma proposta feita para o seu projeto.",
+    "ctaDescription": "Conte o que você precisa. Respondemos com uma proposta personalizada, sem preços genéricos.",
+    "ctaButton": "Solicitar orçamento"
+  },
+  "ProjectsPage": {
+    "metaTitle": "Projetos",
+    "metaDescription": "Portfólio da JoabStudios: sites, aplicativos e software que projetamos e desenvolvemos para clientes reais.",
+    "eyebrow": "Projetos",
+    "title": "Projetos reais, em funcionamento.",
+    "intro": "Cada projeto parte de uma necessidade concreta: como um negócio vende, como atende seus clientes e como é administrado. Estes são alguns dos que projetamos e desenvolvemos.",
+    "listLabel": "Projetos",
+    "empty": "Estamos preparando os estudos de caso dos nossos projetos mais recentes.",
+    "ctaTitle": "O seu negócio é o próximo projeto?",
+    "ctaDescription": "Conte o que você precisa e preparamos uma proposta sob medida."
+  },
+  "CaseStudy": {
+    "metaTitle": "{name} — Estudo de caso",
+    "back": "Todos os projetos",
+    "client": "Cliente",
+    "sector": "Setor",
+    "location": "Localização",
+    "project": "Projeto",
+    "overview": "O projeto",
+    "servicesDeveloped": "Serviços entregues",
+    "need": "A necessidade",
+    "solution": "A solução",
+    "featuresEyebrow": "Funcionalidades",
+    "featuresTitle": "O que desenvolvemos.",
+    "galleryEyebrow": "Galeria",
+    "galleryTitle": "Telas reais do projeto.",
+    "visit": "Visitar {host}",
+    "visitSite": "Visitar o site",
+    "galleryPendingTitle": "Telas em preparação",
+    "galleryPendingText": "Publicaremos telas reais deste projeto assim que a versão pública estiver disponível.",
+    "mobileTitle": "Pensado primeiro para o celular",
+    "similarTitle": "Quer um projeto parecido para o seu negócio?",
+    "similarText": "Conte sobre o seu negócio e preparamos uma proposta sob medida para a sua operação.",
+    "moreTitle": "Mais projetos",
+    "viewAll": "Ver tudo",
+    "coverPending": "Telas em preparação",
+    "coverAria": "{name}: capa tipográfica, telas do projeto em preparação"
+  },
+  "ContactPage": {
+    "metaTitle": "Contato — Peça um orçamento para o seu projeto",
+    "metaDescription": "Conte sobre o seu projeto e receba uma proposta personalizada de site, aplicativo, software ou design.",
+    "eyebrow": "Contato",
+    "title": "Vamos falar sobre o seu projeto.",
+    "intro": "Conte sobre o seu negócio e o que você quer alcançar. Com essas informações preparamos uma proposta sob medida e entramos em contato pessoalmente.",
+    "direct": "Prefere falar diretamente com a gente?",
+    "formLabel": "Formulário de orçamento",
+    "requiredNote": "Os campos marcados com <mark>*</mark> são obrigatórios. Leva cerca de 3 minutos."
+  },
+  "QuoteForm": {
+    "steps": {
+      "project": { "title": "Tipo de negócio", "description": "Que tipo de negócio você tem?" },
+      "services": { "title": "Serviços", "description": "Do que você precisa? Pode escolher vários." },
+      "business": { "title": "Seu negócio", "description": "Conte sobre o seu negócio ou marca." },
+      "contact": { "title": "Contato", "description": "Como podemos falar com você?" },
+      "review": { "title": "Confirmação", "description": "Revise sua solicitação antes de enviar." }
+    },
+    "progress": "Etapa {current} de {total}",
+    "progressLabel": "Progresso da solicitação",
+    "projectLegend": "Tipo de negócio (obrigatório)",
+    "servicesLegend": "Serviços necessários (escolha pelo menos um)",
+    "businessName": "Nome do negócio ou marca",
+    "location": "Cidade ou localização",
+    "locationPlaceholder": "Ex.: São Paulo, Brasil",
+    "website": "Site ou rede social atual",
+    "websitePlaceholder": "seunegocio.com.br",
+    "fullName": "Nome completo",
+    "email": "E-mail",
+    "whatsapp": "Número de WhatsApp",
+    "whatsappPlaceholder": "+55 11 90000 0000",
+    "budget": "Orçamento estimado",
+    "budgetHint": "Se ainda não souber, escolha “Ainda não defini”.",
+    "budgetPlaceholder": "Selecione uma faixa",
+    "message": "Descrição do projeto",
+    "messageHint": "O que você quer alcançar? O que você tem hoje e o que gostaria de ter?",
+    "review": {
+      "type": "Tipo",
+      "services": "Serviços",
+      "business": "Negócio",
+      "location": "Localização",
+      "website": "Site",
+      "name": "Nome",
+      "email": "E-mail",
+      "whatsapp": "WhatsApp",
+      "budget": "Orçamento",
+      "description": "Descrição"
+    },
+    "edit": "Editar",
+    "consent": "Ao enviar, você concorda que a JoabStudios use esses dados apenas para responder à sua solicitação.",
+    "errorTitle": "A solicitação não foi enviada",
+    "connectionError": "Não conseguimos conectar ao servidor. Verifique sua conexão e tente novamente.",
+    "previous": "Voltar",
+    "next": "Avançar",
+    "submit": "Enviar solicitação",
+    "sending": "Enviando…",
+    "successTitle": "Recebemos sua solicitação.",
+    "successText": "Obrigado por nos contar sobre {name}. Vamos analisar as informações e entraremos em contato pelo e-mail ou WhatsApp que você deixou para conversar sobre a proposta.",
+    "successFallbackName": "o seu projeto",
+    "viewProjects": "Ver projetos",
+    "backHome": "Voltar ao início",
+    "projectTypes": {
+      "empresa": { "label": "Empresa ou PME", "hint": "Serviços, comércio ou indústria" },
+      "emprendimiento": { "label": "Empreendimento", "hint": "Uma ideia ou um negócio começando" },
+      "tienda": { "label": "Loja ou e-commerce", "hint": "Venda de produtos online" },
+      "turismo": { "label": "Turismo e hotelaria", "hint": "Hotéis, chalés, glampings" },
+      "profesional": { "label": "Profissional autônomo", "hint": "Consultórios, estúdios, portfólios" },
+      "otro": { "label": "Outro", "hint": "Conte na descrição" }
+    },
+    "serviceOptions": {
+      "website": { "label": "Site", "hint": "Institucional, landing page ou portfólio" },
+      "ecommerce": { "label": "Loja virtual", "hint": "Catálogo, carrinho e pagamentos" },
+      "app": { "label": "Aplicativo web ou mobile", "hint": "Plataformas, portais e apps" },
+      "software": { "label": "Software sob medida", "hint": "Gestão, CRM, reservas, relatórios" },
+      "branding": { "label": "Design de marca", "hint": "Logo e identidade visual" },
+      "uiux": { "label": "Design UI/UX", "hint": "Interfaces e protótipos" },
+      "automation": { "label": "Automações e integrações", "hint": "Processos, pagamentos e ferramentas" },
+      "custom": { "label": "Outro / ainda não sei", "hint": "Ajudamos você a definir" }
+    },
+    "budgetOptions": {
+      "sin-definir": "Ainda não defini",
+      "menos-5m": "Menos de COP 5.000.000",
+      "5m-15m": "COP 5.000.000 – 15.000.000",
+      "15m-30m": "COP 15.000.000 – 30.000.000",
+      "30m-60m": "COP 30.000.000 – 60.000.000",
+      "mas-60m": "Mais de COP 60.000.000"
+    },
+    "errors": {
+      "projectType": { "required": "Selecione o tipo de negócio." },
+      "services": { "required": "Selecione pelo menos um serviço." },
+      "businessName": {
+        "required": "Informe o nome do seu negócio ou marca.",
+        "min": "O nome deve ter pelo menos 2 caracteres.",
+        "max": "O nome não pode passar de 160 caracteres."
+      },
+      "location": {
+        "required": "Informe a cidade ou localização.",
+        "min": "A localização deve ter pelo menos 2 caracteres.",
+        "max": "A localização não pode passar de 160 caracteres."
+      },
+      "website": {
+        "invalid": "Informe um endereço válido, por exemplo seunegocio.com.br.",
+        "max": "O endereço é longo demais."
+      },
+      "units": { "invalid": "Informe um número inteiro maior que zero." },
+      "fullName": {
+        "required": "Informe seu nome completo.",
+        "min": "Seu nome deve ter pelo menos 2 caracteres.",
+        "max": "Seu nome não pode passar de 120 caracteres."
+      },
+      "email": {
+        "required": "Informe seu e-mail.",
+        "invalid": "Informe um e-mail válido.",
+        "max": "O e-mail é longo demais."
+      },
+      "whatsapp": {
+        "required": "Informe seu número de WhatsApp.",
+        "invalid": "Informe um número válido, com o código do país."
+      },
+      "budget": { "required": "Selecione uma faixa de orçamento ou “Ainda não defini”." },
+      "message": {
+        "required": "Conte brevemente sobre o seu projeto.",
+        "min": "A descrição deve ter pelo menos 10 caracteres.",
+        "max": "A descrição não pode passar de 4000 caracteres."
+      },
+      "fallback": "Verifique este campo."
+    },
+    "submitErrors": {
+      "generic": "Não conseguimos enviar sua solicitação. Tente novamente em alguns minutos ou fale diretamente com a gente.",
+      "notConfigured": "O envio de solicitações não está disponível no momento. Fale com a gente por e-mail ou WhatsApp enquanto resolvemos.",
+      "reload": "Por segurança, recarregue a página e envie o formulário novamente.",
+      "rateLimited": "Recebemos várias solicitações da sua conexão na última hora. Tente mais tarde ou fale diretamente com a gente.",
+      "invalid": "Verifique os campos destacados."
+    }
+  },
+  "NotFound": {
+    "metaTitle": "Página não encontrada",
+    "eyebrow": "Erro 404",
+    "title": "Esta página não está disponível.",
+    "text": "O link pode ter mudado. Deixamos alguns caminhos para você seguir.",
+    "home": "Voltar ao início",
+    "projects": "Ver projetos"
+  },
+  "Og": {
+    "services": "Sites · Apps · Software · Design"
+  }
+}

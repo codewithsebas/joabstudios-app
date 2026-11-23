@@ -1,0 +1,310 @@
+{
+  "Metadata": {
+    "defaultTitle": "JoabStudios — Web design, apps and custom software",
+    "description": "Digital agency: design and development of websites, online stores, web and mobile apps, custom software and visual identity.",
+    "keywords": "web design, web development, online stores, app development, mobile apps, custom software, brand design, UI/UX design, booking systems"
+  },
+  "Common": {
+    "skipToContent": "Skip to content",
+    "cta": "Get a quote",
+    "category": "Digital agency",
+    "concept": "Design and technology that grow your business.",
+    "sloganStart": "Clear ideas.",
+    "sloganEnd": "Digital products that work.",
+    "description": "JoabStudios is an independent digital agency that designs and builds websites, apps, custom software and visual identities for companies, startups and projects of every kind.",
+    "opensNewTab": "(opens in a new tab)",
+    "optional": "Optional",
+    "honeypot": "Do not fill in this field"
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "mainLabel": "Main",
+    "mobileLabel": "Mobile menu",
+    "menu": "Menu",
+    "close": "Close",
+    "homeAria": "JoabStudios, go to home page",
+    "mobilePitch": "Tell us about your project and we’ll help you find the right digital solution.",
+    "language": "Language",
+    "changeLanguage": "Change language"
+  },
+  "Footer": {
+    "tagline": "Websites, apps, custom software and brand design for businesses of every kind.",
+    "navLabel": "Footer navigation",
+    "navTitle": "Navigation",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "asideLabel": "Social and credits",
+    "socialTitle": "Connect with us",
+    "contact": "Contact",
+    "backToTop": "Back to top"
+  },
+  "Home": {
+    "metaTitle": "JoabStudios — Web design, apps and custom software",
+    "metaDescription": "We design and build websites, online stores, apps, custom software and visual identities for businesses of every kind.",
+    "knowsAbout": "Web design and development|Online stores|Web and mobile apps|Custom software|Brand and interface design"
+  },
+  "Hero": {
+    "titleStart": "Design and technology",
+    "titleEnd": "that grow your business.",
+    "intro": "We create websites, apps, custom software and brand design for companies, startups and projects of every kind.",
+    "viewProjects": "View projects",
+    "featured": "Featured project — {name}: {category}",
+    "featuredAria": "View the {name} case study"
+  },
+  "Manifesto": {
+    "eyebrow": "About us",
+    "lead": "An independent digital studio that helps every business",
+    "part1": "grow online,",
+    "part2": "run better",
+    "part3a": "and launch",
+    "part3b": "products of its own.",
+    "cardTitle": "From idea to product",
+    "cardText": "Design, development and launch of your digital project, with a single team.",
+    "serviceLines": "Service lines",
+    "methodology": "Methodology",
+    "stages": "stages",
+    "audienceLabel": "For every kind of business",
+    "audienceTitle": "Web, apps and design",
+    "audienceText": "Companies, startups, stores, professionals and tourism."
+  },
+  "ServicesSection": {
+    "eyebrow": "Services",
+    "title": "Four service lines, one goal: helping your business grow.",
+    "intro": "From your brand identity to the app or system that runs your operation."
+  },
+  "Work": {
+    "eyebrow": "Projects",
+    "title": "Real projects, up and running.",
+    "intro": "Websites, apps and management dashboards we designed and built for real clients.",
+    "viewAll": "View all projects",
+    "empty": "We’ll publish our latest projects soon.",
+    "caseStudyAria": "View case study: {name}",
+    "viewCaseStudy": "View case study",
+    "servicesAria": "Services delivered"
+  },
+  "Problems": {
+    "eyebrow": "What we solve",
+    "title": "The problems we solve.",
+    "intro": "Every business is different, but the obstacles to growth tend to repeat. This is how we tackle them."
+  },
+  "Process": {
+    "eyebrow": "How we work",
+    "title": "A clear method, from idea to launch."
+  },
+  "Cta": {
+    "eyebrow": "Let’s get started",
+    "title": "Ready to take your project to the next level?",
+    "description": "Tell us what you need and we’ll prepare a proposal tailored to your operation."
+  },
+  "ServicesPage": {
+    "metaTitle": "Services — Web design, apps, software and brand design",
+    "metaDescription": "Web design and development, online stores, web and mobile apps, custom software and brand design. Custom quotes.",
+    "audience": "Companies, startups and professionals",
+    "eyebrow": "Services",
+    "title": "Everything digital your business needs.",
+    "intro": "Four service lines that work on their own or together: from your brand and website to the app or system that runs your operation.",
+    "navLabel": "Services",
+    "capabilities": "Capabilities",
+    "quoteThis": "Get a quote for this",
+    "solves": "Problems it solves",
+    "benefits": "Benefits",
+    "features": "Features",
+    "examples": "Example use cases",
+    "plansEyebrow": "Engagement models",
+    "plansTitle": "Three starting points, always tailored proposals.",
+    "plansIntro": "We don’t work with fixed prices: every project has different needs. These models guide the conversation, and the final proposal is adjusted to your operation.",
+    "priceByScope": "Pricing based on scope",
+    "recurringEyebrow": "Ongoing services",
+    "recurringTitle": "Support after launch.",
+    "ctaTitle": "Get a proposal made for your project.",
+    "ctaDescription": "Tell us what you need. We’ll reply with a custom proposal, no generic pricing.",
+    "ctaButton": "Request a quote"
+  },
+  "ProjectsPage": {
+    "metaTitle": "Projects",
+    "metaDescription": "JoabStudios portfolio: websites, apps and software we’ve designed and built for real clients.",
+    "eyebrow": "Projects",
+    "title": "Real projects, up and running.",
+    "intro": "Every project starts from a concrete need: how a business sells, how it serves its customers and how it’s managed. Here are some of the ones we’ve designed and built.",
+    "listLabel": "Projects",
+    "empty": "We’re preparing case studies of our latest projects.",
+    "ctaTitle": "Is your business the next project?",
+    "ctaDescription": "Tell us what you need and we’ll prepare a tailored proposal."
+  },
+  "CaseStudy": {
+    "metaTitle": "{name} — Case study",
+    "back": "All projects",
+    "client": "Client",
+    "sector": "Sector",
+    "location": "Location",
+    "project": "Project",
+    "overview": "The project",
+    "servicesDeveloped": "Services delivered",
+    "need": "The need",
+    "solution": "The solution",
+    "featuresEyebrow": "Features",
+    "featuresTitle": "What we built.",
+    "galleryEyebrow": "Gallery",
+    "galleryTitle": "Real screenshots of the project.",
+    "visit": "Visit {host}",
+    "visitSite": "Visit the site",
+    "galleryPendingTitle": "Screenshots coming soon",
+    "galleryPendingText": "We’ll publish real screenshots of this project as soon as its public version is available.",
+    "mobileTitle": "Designed mobile-first",
+    "similarTitle": "Want a similar project for your business?",
+    "similarText": "Tell us about your business and we’ll prepare a proposal tailored to your operation.",
+    "moreTitle": "More projects",
+    "viewAll": "View all",
+    "coverPending": "Screenshots coming soon",
+    "coverAria": "{name}: typographic cover, project screenshots coming soon"
+  },
+  "ContactPage": {
+    "metaTitle": "Contact — Get a quote for your project",
+    "metaDescription": "Tell us about your project and get a custom proposal for a website, app, software or design.",
+    "eyebrow": "Contact",
+    "title": "Let’s talk about your project.",
+    "intro": "Tell us about your business and what you want to achieve. With this information we’ll prepare a tailored proposal and get in touch personally.",
+    "direct": "Prefer to write to us directly?",
+    "formLabel": "Quote request form",
+    "requiredNote": "Fields marked with <mark>*</mark> are required. It takes about 3 minutes."
+  },
+  "QuoteForm": {
+    "steps": {
+      "project": { "title": "Type of business", "description": "What kind of business do you have?" },
+      "services": { "title": "Services", "description": "What do you need? You can choose several." },
+      "business": { "title": "Your business", "description": "Tell us about your business or brand." },
+      "contact": { "title": "Contact", "description": "How can we reach you?" },
+      "review": { "title": "Review", "description": "Check your request before sending it." }
+    },
+    "progress": "Step {current} of {total}",
+    "progressLabel": "Request progress",
+    "projectLegend": "Type of business (required)",
+    "servicesLegend": "Required services (choose at least one)",
+    "businessName": "Business or brand name",
+    "location": "City or location",
+    "locationPlaceholder": "e.g. Miami, United States",
+    "website": "Current website or social profile",
+    "websitePlaceholder": "yourbusiness.com",
+    "fullName": "Full name",
+    "email": "Email",
+    "whatsapp": "WhatsApp number",
+    "whatsappPlaceholder": "+1 305 000 0000",
+    "budget": "Estimated budget",
+    "budgetHint": "If you’re not sure yet, choose “Not defined yet”.",
+    "budgetPlaceholder": "Select a range",
+    "message": "Project description",
+    "messageHint": "What do you want to achieve? What do you have today and what would you like to have?",
+    "review": {
+      "type": "Type",
+      "services": "Services",
+      "business": "Business",
+      "location": "Location",
+      "website": "Website",
+      "name": "Name",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "budget": "Budget",
+      "description": "Description"
+    },
+    "edit": "Edit",
+    "consent": "By submitting, you agree that JoabStudios will use this data only to respond to your request.",
+    "errorTitle": "Your request wasn’t sent",
+    "connectionError": "We couldn’t reach the server. Check your connection and try again.",
+    "previous": "Back",
+    "next": "Next",
+    "submit": "Send request",
+    "sending": "Sending…",
+    "successTitle": "We received your request.",
+    "successText": "Thanks for telling us about {name}. We’ll review the information and contact you by the email or WhatsApp you left us to discuss the proposal.",
+    "successFallbackName": "your project",
+    "viewProjects": "View projects",
+    "backHome": "Back to home",
+    "projectTypes": {
+      "empresa": { "label": "Company or SMB", "hint": "Services, retail or industry" },
+      "emprendimiento": { "label": "Startup", "hint": "An idea or a new business" },
+      "tienda": { "label": "Store or e-commerce", "hint": "Selling products online" },
+      "turismo": { "label": "Tourism and hospitality", "hint": "Hotels, cabins, glamping" },
+      "profesional": { "label": "Independent professional", "hint": "Practices, studios, portfolios" },
+      "otro": { "label": "Other", "hint": "Tell us in the description" }
+    },
+    "serviceOptions": {
+      "website": { "label": "Website", "hint": "Corporate site, landing page or portfolio" },
+      "ecommerce": { "label": "Online store", "hint": "Catalog, cart and payments" },
+      "app": { "label": "Web or mobile app", "hint": "Platforms, portals and apps" },
+      "software": { "label": "Custom software", "hint": "Management, CRM, bookings, reports" },
+      "branding": { "label": "Brand design", "hint": "Logo and visual identity" },
+      "uiux": { "label": "UI/UX design", "hint": "Interfaces and prototypes" },
+      "automation": { "label": "Automation and integrations", "hint": "Processes, payments and tools" },
+      "custom": { "label": "Other / not sure yet", "hint": "We’ll help you define it" }
+    },
+    "budgetOptions": {
+      "sin-definir": "Not defined yet",
+      "menos-5m": "Under COP 5,000,000",
+      "5m-15m": "COP 5,000,000 – 15,000,000",
+      "15m-30m": "COP 15,000,000 – 30,000,000",
+      "30m-60m": "COP 30,000,000 – 60,000,000",
+      "mas-60m": "Over COP 60,000,000"
+    },
+    "errors": {
+      "projectType": { "required": "Select your type of business." },
+      "services": { "required": "Select at least one service." },
+      "businessName": {
+        "required": "Enter your business or brand name.",
+        "min": "The name must be at least 2 characters.",
+        "max": "The name can’t exceed 160 characters."
+      },
+      "location": {
+        "required": "Enter your city or location.",
+        "min": "The location must be at least 2 characters.",
+        "max": "The location can’t exceed 160 characters."
+      },
+      "website": {
+        "invalid": "Enter a valid web address, e.g. yourbusiness.com.",
+        "max": "The address is too long."
+      },
+      "units": { "invalid": "Enter a whole number greater than zero." },
+      "fullName": {
+        "required": "Enter your full name.",
+        "min": "Your name must be at least 2 characters.",
+        "max": "Your name can’t exceed 120 characters."
+      },
+      "email": {
+        "required": "Enter your email.",
+        "invalid": "Enter a valid email address.",
+        "max": "The email is too long."
+      },
+      "whatsapp": {
+        "required": "Enter your WhatsApp number.",
+        "invalid": "Enter a valid number, including the country code."
+      },
+      "budget": { "required": "Select a budget range or “Not defined yet”." },
+      "message": {
+        "required": "Briefly tell us about your project.",
+        "min": "The description must be at least 10 characters.",
+        "max": "The description can’t exceed 4000 characters."
+      },
+      "fallback": "Please check this field."
+    },
+    "submitErrors": {
+      "generic": "We couldn’t send your request. Please try again in a few minutes or write to us directly.",
+      "notConfigured": "Request submission isn’t available right now. Please email or WhatsApp us while we fix it.",
+      "reload": "For security reasons, reload the page and submit the form again.",
+      "rateLimited": "We received several requests from your connection in the last hour. Please try again later or write to us directly.",
+      "invalid": "Please check the highlighted fields."
+    }
+  },
+  "NotFound": {
+    "metaTitle": "Page not found",
+    "eyebrow": "Error 404",
+    "title": "This page isn’t available.",
+    "text": "The link may have changed. Here are a few ways to keep going.",
+    "home": "Back to home",
+    "projects": "View projects"
+  },
+  "Og": {
+    "services": "Web · Apps · Software · Design"
+  }
+}
